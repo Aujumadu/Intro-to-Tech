@@ -1,0 +1,119 @@
+.full {
+  background: rgba(239, 7, 7, 0.2);
+  border: 20px;
+  border-radius: 20px;
+  width: 900px;
+  font-family: pt mono;
+}
+
+.lefty {
+  padding-right: 60px;
+}
+.col-6,
+.col-2 {
+  color: red;
+  font-size: larger;
+  font-weight: bolder;
+  padding-top: 20px;
+  text-align: right;
+}
+.middle {
+  margin-bottom: 10px;
+  padding-left: 170px;
+}
+.current-city {
+  font-size: larger;
+  background-color: red;
+}
+.place-of-interest {
+  width: 400px;
+  font-size: larger;
+  background-color: #fff;
+}
+
+.search-cities {
+  width: 150px;
+  font-size: larger;
+  background-color: red;
+  text-align: right;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+#this-day {
+  font-size: 23px;
+}
+
+#this-date {
+  font-size: 23px;
+}
+.min-secs {
+  font-size: 23px;
+}
+
+.middle-container {
+  position: relative;
+  padding-left: 60px;
+  margin-bottom: 30px;
+}
+.icon-temp {
+  display: inline-block;
+  position: absolute;
+  padding-top: 20px;
+  margin-left: 420px;
+}
+.free-icon {
+  font-size: 100px;
+}
+#describe {
+  font-size: 28px;
+  color: #fff;
+}
+
+.free-icon,
+.small-icon {
+  color: white;
+}
+.current-temp {
+  display: inline-block;
+}
+.celsius {
+  font-size: 90px;
+  display: inline-block;
+}
+.unit-links {
+  font-size: 30px;
+  color: white;
+}
+
+#celsius-convert {
+  color: red;
+  text-decoration: none;
+}
+
+#fahrenheit-convert {
+  color: red;
+  text-decoration: none;
+}
+h2 {
+  font-size: 60px;
+}
+
+.new-color {
+  color: red;
+  font-size: larger;
+}
+
+.dated {
+  font-size: 20px;
+}
+.small-icon {
+  font-size: 70px;
+}
+
+.final {
+  padding-bottom: 30px;
+  font-size: 20px;
+}
